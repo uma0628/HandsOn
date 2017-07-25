@@ -1,0 +1,4 @@
+/* handson */
+input.ng-invalid.ng-dirty {
+  border-color: #ff0000;
+}
